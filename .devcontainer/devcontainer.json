@@ -1,6 +1,6 @@
 {
   "name": "Kubernetes-in-Codespaces",
-  "dockerFile": "Dockerfile",
+  "image": "ghcr.io/maazghani/ksailnet:main",
   "runArgs": [
     "--init",
     "--privileged"
